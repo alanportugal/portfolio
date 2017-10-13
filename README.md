@@ -1,2 +1,2 @@
 # portfolio
-Website per week 2 instructions
+Website per week 2 instructions.
