@@ -1,4 +1,6 @@
 # portfolio
+README.md - UW_2017_Q4_HW02 - Due: Thursday, October 19, 2017 08:00AM
+
 Website per week 2 instructions.
 
 Create a new directory in your 'foundations' directory called 'portfolio' or 'week2'. Initialize it as a Git repository.
